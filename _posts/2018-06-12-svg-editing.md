@@ -11,7 +11,9 @@ tags:
 
 {% include toc title="Getting Started" %}
 
-SVG是使用XML（eXtensible Markup Language， 可拓展标记语言）来进行描述的，所以不仅机器可以阅读和理解SVG图像，我们也可以。  
+SVG是使用XML（eXtensible Markup Language， 可拓展标记语言）来进行描述的，所以不仅机器可以阅读和理解SVG图像，我们也可以。
+
+![星星SVG图]({{ site.url }}{{ site.baseurl }}/images/Star.svg)  
 
 ## SVG的根元素  
   
