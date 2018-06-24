@@ -18,6 +18,8 @@ header:
 
 {% include toc title="Getting Started" %}
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 SVG允许在代码中使用矢量点来描述二维图像。  
 
 ## SVG的优势  
