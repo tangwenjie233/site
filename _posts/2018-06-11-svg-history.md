@@ -10,7 +10,7 @@ excerpt: "SVG允许在代码中使用矢量点来描述二维图像，相比位�
 header:
   overlay_image: /images/unsplash-image-2.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_label: "More Info"
+# cta_label: "More Info"
   cta_url: "https://unsplash.com"
 ---
 
