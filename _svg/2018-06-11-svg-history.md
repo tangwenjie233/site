@@ -1,10 +1,7 @@
 ---
 title:  "SVG的历史"
 modified: 2018-06-12T16:03:49-04:00
-categories: 
-  - 网页设计
-tags:
-  - svg
+
 classes: wide
 excerpt: "SVG允许在代码中使用矢量点来描述二维图像，相比位图具有特殊优势"
 header:
@@ -16,7 +13,7 @@ header:
 
 {% include base_path %}
 
-{% include toc title="Getting Started" %}
+{% include toc title="目录" %}
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 

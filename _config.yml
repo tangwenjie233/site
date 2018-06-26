@@ -188,7 +188,38 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+ 
+# Collections
+collections:
+  svg:
+    output: true
+    permalink: /:collection/:path/
 
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _svg
+  - scope:
+      path: ""
+      type: svg
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
+    
 # Sass/SCSS
 sass:
   sass_dir: _sass
