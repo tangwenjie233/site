@@ -105,7 +105,7 @@ author:
   bio              : "中山大学南方学院 文学与传媒学院"
   location         : "广东-广州"
   email            :
-  uri              :
+  uri              : "https://gitee.com/wuxue_newmedia/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://gitee.com/wuxue_newmedia/"
+  github           : "kissbabysky"
   gitlab           :
   google_plus      :
   keybase          :
