@@ -1,9 +1,6 @@
 ---
 title:  "SVG的历史"
 ---
-<head>
-  <meta charset="UTF-8">
- <head>
  
 SVG允许在代码中使用矢量点来描述二维图像。  
 
