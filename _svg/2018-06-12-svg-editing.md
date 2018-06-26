@@ -1,11 +1,6 @@
 ---
 title:  "用文档表示的SVG图像"
-modified: 2018-06-12T16:03:49-04:00
 ---
-
-{% include base_path %}
-
-{% include toc title="目录" %}
 
 SVG是使用XML（eXtensible Markup Language， 可拓展标记语言）来进行描述的，所以不仅机器可以阅读和理解SVG图像，我们也可以。
 
