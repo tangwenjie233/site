@@ -12,6 +12,7 @@ body {
   margin: 0;
   padding: 0;
   color: $text-color;
+  font-family: $global-font-family;
   line-height: 1.5;
   
 
@@ -65,7 +66,6 @@ small,
 
 p {
   margin-bottom: 1.3em;
-  font-family: $caption-font-family;
 }
 
 u,
