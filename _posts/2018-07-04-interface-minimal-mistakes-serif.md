@@ -1,7 +1,7 @@
 ---
 title: "使用miminal-mistakes来设置字体"
 categories:
-  - Jekyll
+  - 平面设计
 tags:
   - minimal-mistakes
   - 字体
