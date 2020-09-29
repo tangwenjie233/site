@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "aqua_wuxue" # "air", "aqua", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "吴雪个人网站"
+title                    : "HCOI"
 title_separator          : "："
-name                     : "吴雪"
+name                     : "HCOI协会"
 description              : "使用Jekyll搭建的网站"
 url                      : "https://wuxue_newmedia.gitee.io"
 baseurl                  : "/minimal-mistakes"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "吴雪"
+  name             : "唐文杰"
   avatar           : "/images/avatar.png"
-  bio              : "中山大学南方学院 文学与传媒学院"
-  location         : "广东-广州"
+  bio              : "湘信大 网络安全学院"
+  location         : "湖南-永州"
   email            :
   uri              : "https://gitee.com/wuxue_newmedia/"
   home             : # null (default), "absolute or relative url to link to author home"
